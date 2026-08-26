@@ -2,13 +2,12 @@
 
 The performance of the deployed 3D-PAWS stations was assessed through comparison with corresponding Kenya Meteorological Department (KMD) reference observations. for :
 
-Region	            Representative Areas	      Environmental Characteristic
-Western Kenya	          Trans Nzoia	              High-rainfall environment
-Central Kenya	          Nyandarua / Nyahururu	      High-altitude environment
-South Rift	            Narok	                      Agro-pastoral environment
-South-Eastern Kenya	    Makueni / Kitui	          Marginal-agricultural environment
-Eastern/Northern Kenya	Marsabit, Garissa,      Tana River	Pastoral environment
-Coastal Kenya	Kilifi /  Taita-Taveta	            Coastal environment
+Western Kenya	          Trans Nzoia	              High-rainfall environment,
+Central Kenya	          Nyandarua / Nyahururu	      High-altitude environment,
+South Rift	            Narok	                      Agro-pastoral environment,
+South-Eastern Kenya	    Makueni / Kitui	          Marginal-agricultural environment,
+Eastern/Northern Kenya	Marsabit, Garissa,      Tana River	Pastoral environment,
+Coastal Kenya	Kilifi /  Taita-Taveta	            Coastal environment,
 		
 The validation covered the following meteorological parameters:
 
