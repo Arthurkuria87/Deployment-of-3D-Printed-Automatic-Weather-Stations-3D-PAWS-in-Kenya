@@ -1,0 +1,5 @@
+1.python run_validation.py
+2.python run_kmd_loader.py
+3.python test_comparison_manager.py
+4.python test_statistical_analysis.py
+5.python test_plotting.py
